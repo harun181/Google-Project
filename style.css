@@ -60,7 +60,8 @@ section .main .searchbox{
 section .main .searchbox .search{
     width: 98%;
     padding: 13px;
-    padding-left: 60px;
+    padding-left: 45px;
+    padding-right: 60px;
     border-radius: 30px;
     border: 1px solid #ccc;
     outline: none;
